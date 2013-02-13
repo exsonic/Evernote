@@ -14,9 +14,9 @@ import java.lang.InstantiationException;
 
 class CircularBuffer {
 	
-//	public static void main(String[] args) throws Exception {
-//		new CircularBuffer().run();
-//	}
+	public static void main(String[] args) throws Exception {
+		new CircularBuffer().run();
+	}
 	
 	void run() throws IOException {
 		try {
