@@ -1,3 +1,7 @@
+Bobi Pu
+bobi.pu@usc.edu
+
+
 Those codes are answers for Evernote's code challenge:
 https://evernotechallenge.interviewstreet.com/challenges/dashboard/#problems
 
